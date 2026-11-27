@@ -2,6 +2,10 @@
 
 Thank you for your interest in contributing. This document covers how the project is structured and how to submit changes cleanly.
 
+Helix AI Virtual Receptionist is a paid Helix Suite product. Before submitting
+code, contact the repository owner to arrange contribution and licensing terms.
+Submitting a pull request does not grant a license to use the current product.
+
 ---
 
 ## Project philosophy
