@@ -1,13 +1,13 @@
 # Helix AI Virtual Receptionist
 
 ![Version](https://img.shields.io/badge/version-v2.0.5-cyan)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-paid%20commercial-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-blue)
 ![Asterisk](https://img.shields.io/badge/asterisk-20+-orange)
 ![Ollama](https://img.shields.io/badge/LLM-ollama%20local-purple)
 ![Stars](https://img.shields.io/github/stars/BB-AI-Arena/helix-ai-virtual-receptionist?style=flat)
 
-Helix is a production-ready, self-hosted AI phone system for businesses that want more than a chatbot bolted onto a phone line. It works as an AI receptionist, multilingual front desk, live-agent routing layer, translation bridge, after-hours assistant, scheduling assistant, voicemail system, and operational dashboard in one stack.
+Helix AI Virtual Receptionist is a Helix Suite product: a self-hosted AI phone system for businesses that want more than a chatbot bolted onto a phone line. It works as an AI receptionist, multilingual front desk, live-agent routing layer, translation bridge, after-hours assistant, scheduling assistant, voicemail system, and operational dashboard in one stack.
 
 In practical terms, Helix can:
 - answer inbound calls and speak naturally with callers
@@ -20,7 +20,11 @@ In practical terms, Helix can:
 - support normal PBX behavior like direct extension dialing, voicemail fallback, hold music, and internal extension calling
 - expose call logs, routing rules, voicemails, holidays, agent state, CRM health, and outbound/campaign scaffolding in a live dashboard and API
 
-Built for operators who care about control, privacy, and reliability, Helix runs on your own infrastructure with Asterisk ARI, Ollama, Whisper, Kokoro TTS, FastAPI, Google Calendar, optional Vtiger CRM integration, and a live operations dashboard. No subscriptions. No per-minute API billing. No external speech or LLM provider required.
+Built for operators who care about control, privacy, and reliability, Helix runs on your own infrastructure with Asterisk ARI, Ollama, Whisper, Kokoro TTS, FastAPI, Google Calendar, optional Vtiger CRM integration, and a live operations dashboard. The software requires a paid Helix Suite license. The local AI stack does not require per-minute external speech or LLM API billing.
+
+## Licensing
+
+Use of this release requires a written, paid license agreement with BB-AI-Arena. Contact the repository owner to arrange access. See [LICENSE](LICENSE) for the current notice and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for third-party material. Earlier copies released under MIT retain the rights granted with those copies.
 
 **Deployment target:** bare-metal Ubuntu production, with Docker/Desktop support for testing and development  
 **Runtime profile:** fully local voice AI, live agent routing, multilingual translation bridging, Google Calendar scheduling  

@@ -4,6 +4,11 @@ All versions are tagged in GitHub. Latest release is always `latest`.
 
 ---
 
+## [Unreleased]
+
+### Changed
+- Identified Helix AI Virtual Receptionist as a Helix Suite product and changed licensing for future distributions to a paid written agreement. Earlier MIT releases retain their original terms.
+
 ## [latest] → v2.0.5
 
 ---

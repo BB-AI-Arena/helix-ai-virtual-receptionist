@@ -1,21 +1,18 @@
-MIT License
+Helix Suite Commercial License Notice
 
-Copyright (c) 2026 Helix AI Virtual Receptionist
+Copyright (c) 2026 BB-AI-Arena. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Helix AI Virtual Receptionist is a paid product in Helix Suite. This
+repository's publication does not grant a license to use, run, reproduce,
+modify, distribute, sublicense, or provide the software as a service.
+Those rights require a current, written, paid license agreement with
+BB-AI-Arena. Contact the repository owner to arrange a license before use.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This notice applies to the software distributed with this notice from
+November 26, 2026 onward. It does not revoke rights granted for copies
+previously released under the MIT License. Third-party components and
+adapted material remain subject to their own licenses; see
+THIRD_PARTY_NOTICES.md.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+No warranty or support is provided except as expressly stated in a
+separate written agreement.
